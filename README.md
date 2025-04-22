@@ -50,5 +50,5 @@ Além de programar, também me dedico diariamente à arquitetura de sistemas, in
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusYurirs/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-yuri-silva/)
 

@@ -1,10 +1,8 @@
-<h1 align="center">Hey, eu sou o Matheus Yuri! 👋</h1>
+# Olá, eu sou o Matheus Yuri! 👋
 
-<p align="center">
-  <strong>Backend Developer</strong> apaixonado por código limpo, APIs seguras e projetos que fazem sentido.  
-  <br />
-  Estudante dedicado em transição de carreira, dominando Java com Spring Boot, Docker, JPA, JWT, e muito mais!
-</p>
+Crio soluções limpas, robustas e seguras, focando em desenvolvimento Backend com Java e Spring Boot. Apaixonado por código organizado, segurança com JWT e boas práticas com Docker e Flyway.
+
+Além de programar, também me dedico diariamente à arquitetura de sistemas, integração de APIs e segurança de aplicações web, buscando sempre entregar soluções inovadoras e eficazes.
 
 ---
 
@@ -16,14 +14,14 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  
+
   <!-- DevOps / Infra -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white"/>
-  
+
   <!-- DB -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
+
   <!-- Outras -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -43,13 +41,14 @@
 
 ## 💬 Sobre mim
 
-- 🎯 Focado em backend com **Java + Spring Boot**
-- 🚀 Atualmente desenvolvendo o projeto **DailyDev**: uma plataforma para registrar evolução diária como dev
-- 👨‍💻 Estudando pelo curso **Java10x** com projeto real, deploy com Docker, autenticação com JWT e boas práticas
-- ☕ Café no código, sempre.
+- 🌟 Focado em backend com **Java + Spring Boot**
+- 🚀 Atualmente desenvolvendo o projeto **DailyDev**
+- 🎓 Estudante dedicado do curso **Java10x**
+- ☕ Viciado em café e código limpo
 
 ---
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MatheusYurirs/)
+

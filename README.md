@@ -4,6 +4,8 @@ Crio soluções limpas, robustas e seguras, focando em desenvolvimento Backend c
 
 Além de programar, também me dedico diariamente à arquitetura de sistemas, integração de APIs e segurança de aplicações web, buscando sempre entregar soluções inovadoras e eficazes.
 
+E claro, agora sou indie hacker 😎
+
 ---
 
 ## 🚀 Tech Stack

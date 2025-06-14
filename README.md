@@ -1,5 +1,4 @@
-# Olá, eu sou o Matheus Yuri! 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C2EBF7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Yuri!%F0%9F%91%8B" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C2EBF7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Yuri!%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 Crio soluções limpas, robustas e seguras, focando em desenvolvimento Backend com Java e Spring Boot. Apaixonado por código organizado, segurança com JWT e boas práticas com Docker e Flyway.
 
